@@ -6,7 +6,10 @@
   - [Active Directory](https://github.com/NathanThorne/Active_Directory_Lab)
 - <b>Sentinal Honey Pot Lab</b>
   - [Sentinal Lab](https://github.com/NathanThorne/Sentinal-Lab)
-
+- <b>Vulnerability Management Lab</b>
+  - [Vulnerability Management]()
+- <b>Malware Analysis Lab</b>
+  - [Malware Analusis]()
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="NathanThorne | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
