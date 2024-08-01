@@ -7,7 +7,7 @@
 - <b>Sentinal Honey Pot Lab</b>
   - [Sentinal Lab](https://github.com/NathanThorne/Sentinal-Lab)
 - <b>Vulnerability Management Lab</b>
-  - [Vulnerability Management]()
+  - [Vulnerability Management](https://github.com/NathanThorne/Vulnerability_Management)
 - <b>Malware Analysis Lab</b>
   - [Malware Analusis]()
 <h2> 🤳 Connect with me:</h2>
