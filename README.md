@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathan Thorne <br/><a href=https://github.com/NathanThorne>Test</a>, <a href=https://www.linkedin.com/in/nathan-thorne-7b669731b/> Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Nathan Thorne <br/><a href=https://github.com/NathanThorne>Home</a>, <a href=https://www.linkedin.com/in/nathan-thorne-7b669731b/> Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 Vulnerability management Specialist :</h2>
 
