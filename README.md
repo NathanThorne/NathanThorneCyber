@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nathan Thorne <br/><a href=https://github.com/NathanThorne>Home</a>, <a href=https://www.linkedin.com/in/nathan-thorne-7b669731b/> Cybersecurity Professional</a> </h1>
 
-<h2>👨‍💻 Vulnerability management Specialist :</h2>
+<h2>👨‍💻 Cyber Security Analyst :</h2>
 
 - <b>Active Directory Lab</b>
   - [Active Directory](https://github.com/NathanThorne/Active_Directory_Lab)
