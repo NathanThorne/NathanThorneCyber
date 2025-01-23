@@ -9,7 +9,7 @@
 - <b>Vulnerability Management Lab</b>
   - [Vulnerability Management](https://github.com/NathanThorne/Vulnerability_Management)
 - <b>Malware Analysis Lab</b>
-  - [Malware Analusis]()
+  - [Malware Analysis]()
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="NathanThorne | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
